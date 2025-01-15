@@ -13,7 +13,7 @@ const AuthImagePattern = ({ title, subtitle }) => {
     { label: "Kaggle", icon: faKaggle, url: "https://kaggle.com/chaitanyagaur572" },
     { label: "Gmail", icon: faEnvelope, url: "mailto:chaitanyagaur16@gmail.com" },
     { label: "Yahoo", icon: faEnvelope, url: "mailto:chaitanyagaur9@yahoo.com" },
-    { label: "Resume", icon: faFilePdf, url: "https://your-resume-link.com" },
+    { label: "Resume", icon: faFilePdf, url: "https://drive.google.com/drive/folders/1TZ8PMXgZSnVuND0R-daqpmNNr_DxuZGn?usp=sharing" },
   ];
 
   return (
