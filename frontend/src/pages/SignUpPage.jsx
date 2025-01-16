@@ -145,9 +145,11 @@ const SignUpPage = () => {
       {/* right side */}
 
       <AuthImagePattern
-        title="Join our community"
-        subtitle="Connect with friends, share moments, and stay in touch with your loved ones."
-      />
+  title={"Hi! I am Chaitanya"}
+  subtitle={
+"I’m Chaitanya Gaur, a software engineer passionate about developing innovative solutions. Above, you'll find quick links to access my professional profiles and resume. Feel free to explore my GitHub connect on LinkedIn or review my projects on Kaggle. You can also reach out via Gmail or Yahoo."
+  }
+/>
     </div>
   );
 };
