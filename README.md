@@ -70,7 +70,9 @@ Ensure you have the following installed on your system:
 Feel free to reach out for feedback or collaboration:
 
 **LinkedIn:** linkedin.com/in/chaitanyagaur7
+
 **GitHub:** github.com/chaitanyagaur7
+
 **Email:** chaitanyagaur16@gmail.com
 
 
