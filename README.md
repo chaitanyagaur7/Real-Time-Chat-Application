@@ -8,10 +8,9 @@ A feature-rich real-time chat application built using the MERN (MongoDB, Express
 - **Real-Time Messaging**: Instant updates with WebSockets.  
 - **User Authentication**: Secure login and registration system using JWT.  
 - **Responsive Design**: Fully optimized for mobile and desktop devices.  
-- **Group Chats**: Create and manage group conversations.  
-- **Typing Indicators**: See when someone is typing in real time.  
-- **Read Receipts**: Know when your messages are seen.  
-- **Search Functionality**: Quickly find users or chats.  
+- **Online Indicators**: See when someone is online in real time.   
+- **Search Functionality**: Quickly find online users.
+- **Share Images**: You can also share images and emojis.  
 
 ## Tech Stack  
 - **Frontend**: React with Redux for state management.  
